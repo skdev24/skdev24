@@ -11,7 +11,7 @@ A **Developer** having interest in Building Mobile Application(React Native/iOS/
 
 **Recent Project:**  
 
-I build a YouTube Music App(iOS/Android) with real time youtube data, check out the [APP VIDEO](https://www.youtube.com/watch?v=r7eYicwbwLQ)
+I built a YouTube Music App(iOS/Android) with real time youtube data, check out the [APP VIDEO](https://www.youtube.com/watch?v=r7eYicwbwLQ)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/16745006/87463267-c25ea800-c62e-11ea-9d5f-5083b2f7c0d7.PNG" alt="Sublime's custom image" height="320" style="padding: 10px;" loading="lazy"/>
