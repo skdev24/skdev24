@@ -16,9 +16,9 @@ I built a YouTube Music App(iOS/Android) with real time youtube data, check out 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/16745006/94339702-79a57100-0019-11eb-8381-847de6d62ee5.PNG" alt="Sublime's custom image" height="320" style="padding: 10px;" loading="lazy"/>
-  <img src="https://user-images.githubusercontent.com/16745006/94339703-7ad69e00-0019-11eb-99b0-2c746747cbf7.PNG" alt="Sublime's custom image" height="320" style="padding: 10px;" loading="lazy"/>
-  <img src="https://user-images.githubusercontent.com/16745006/94339699-71e5cc80-0019-11eb-97fc-7336ad5582f6.PNG" alt="Sublime's custom image" height="320" style="padding: 10px;" loading="lazy"/>
-  <img src="https://user-images.githubusercontent.com/16745006/87463267-c25ea800-c62e-11ea-9d5f-5083b2f7c0d7.PNG" alt="Sublime's custom image" height="320" style="padding: 10px;" loading="lazy"/>
+  <img src="https://user-images.githubusercontent.com/16745006/98437538-f6dbff80-2108-11eb-856f-0eac8ac11751.PNG" alt="Sublime's custom image" height="320" style="padding: 10px;" loading="lazy"/>
+  <img src="https://user-images.githubusercontent.com/16745006/98437537-f5aad280-2108-11eb-9bea-abf6fdaf28ad.PNG" alt="Sublime's custom image" height="320" style="padding: 10px;" loading="lazy"/>
+  <img src="https://user-images.githubusercontent.com/16745006/98437533-ee83c480-2108-11eb-99f6-7a8110b3eed1.PNG" alt="Sublime's custom image" height="320" style="padding: 10px;" loading="lazy"/>
 </p>
 
 Download [APK](https://drive.google.com/file/d/1r9AY-IcWWOwhTuQGzTICe4UCF5WqQh4g/view?usp=sharing)
