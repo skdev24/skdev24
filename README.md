@@ -21,8 +21,6 @@ I built a YouTube Music App(iOS/Android) with real time youtube data, check out 
   <img src="https://user-images.githubusercontent.com/16745006/98437533-ee83c480-2108-11eb-99f6-7a8110b3eed1.PNG" alt="Sublime's custom image" height="320" style="padding: 10px;" loading="lazy"/>
 </p>
 
-Download [APK](https://drive.google.com/file/d/1r9AY-IcWWOwhTuQGzTICe4UCF5WqQh4g/view?usp=sharing)
-
 <p align="center">
   <img align='center' src="https://visitor-badge.laobi.icu/badge?page_id=skdev24.visitor-badge">
 </p>
