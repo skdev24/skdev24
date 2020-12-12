@@ -9,6 +9,8 @@ A **Developer** having interest in Building Mobile Application(React Native/iOS/
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://reactnative.dev/img/header_logo.svg"></code>
 <code><img height="20" src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png"></code>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=skdev24&show_icons=true&locale=en&theme=midnight-purple" alt="skdev24" /></p>
+
 
 **Recent Project:**  
 
