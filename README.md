@@ -23,7 +23,7 @@ I built a YouTube Music App(iOS/Android) with real time youtube data, check out 
   <img src="https://user-images.githubusercontent.com/16745006/120107291-270aee80-c17e-11eb-9b04-91bd7876b701.PNG" alt="Sublime's custom image" height="320" style="padding: 10px;" loading="lazy"/>
 </p>
 
-Download [APK](https://drive.google.com/file/d/11n0A21xNPVTTwj_RhqVAB3yDU1ZUA5ov/view?usp=sharing)
+Download [APK](https://drive.google.com/file/d/11n0A21xNPVTTwj_RhqVAB3yDU1ZUA5ov/view?usp=sharing) | [M1 Mac](https://drive.google.com/file/d/1GuzdJo04HpWdxTol_j4uHD_efZ0rq1hZ/view?usp=sharing)
 
 
 <p align="center">
