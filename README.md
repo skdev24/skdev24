@@ -1,6 +1,6 @@
 ### Hi 👋🏼,
 A **Developer** having interest in Building Mobile Application(React Native/iOS/Android)
-- 🔭 I’m currently working as a Software Engineer for [Striga](https://striga.com) **₿**
+- 🔭 I’m currently working on building my own products 🚀
 - 🌱 I’m currently exploring lot in **Blockchain/Bitcoin/SwiftUI❤️**
 - 📫 Follow me on [Twitter](https://twitter.com/skdev24) - [@skdev24](https://twitter.com/skdev24)
 
