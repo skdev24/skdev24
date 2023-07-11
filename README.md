@@ -2,7 +2,8 @@
 
  Specializing in building robust Mobile Applications with React Native, iOS, and Android, I am constantly pushing the boundaries of my skills by developing innovative products. 🚀
 
-Stay updated with my work - follow me on ![Twitter Follow](https://img.shields.io/twitter/follow/skdev24?label=Follow&style=social) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/skdev24/)](https://www.linkedin.com/in/skdev24/)
+Stay updated with my work - follow me on [![Twitter Follow](https://img.shields.io/twitter/follow/skdev24?label=Follow&style=social)](https://twitter.com/skdev24)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/skdev24/)](https://www.linkedin.com/in/skdev24/)
 
 
 ## 🌟 Highlight Project: FitMate
