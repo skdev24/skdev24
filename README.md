@@ -11,7 +11,7 @@ Stay updated with my work - follow me on [![Twitter Follow](https://img.shields.
 FitMate, designed to be your dedicated fitness partner, simplifies your health journey. Explore more about it on our [website](https://fitmateai.app).
 
 <p align="center">
-  <img src="https://github.com/skdev24/skdev24/assets/16745006/b249c030-5d95-4917-88cb-c98a8d4cf02d" alt="FitMate App" height="420" loading="lazy"/>
+  <img src="https://github.com/skdev24/skdev24/assets/16745006/06f09645-51be-46ed-a2d2-531fe96ea9a7" alt="FitMate App" height="420" loading="lazy"/>
 </p>
 
 <p align="center">
