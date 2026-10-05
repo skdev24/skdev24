@@ -1,22 +1,29 @@
-<h1 align="center">Hello, I'm a Full Stack Developer! 👋🏼</h1>
+### Hey, I'm Shivam 👋
 
- Specializing in building robust Mobile Applications with React Native, iOS, and Android, I am constantly pushing the boundaries of my skills by developing innovative products. 🚀
+CTO at [**Otio**](https://otio.ai) in London. I build AI products and the systems behind them, from document pipelines serving 200k+ users to iOS apps I ship on weekends.
 
-Stay updated with my work - follow me on [![Twitter Follow](https://img.shields.io/twitter/follow/skdev24?label=Follow&style=social)](https://twitter.com/skdev24)
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/skdev24/)](https://www.linkedin.com/in/skdev24/)
+Before Otio, I led engineering at [**Striga**](https://striga.com) (YC W21), where we built crypto wallets, cards and banking apps used across Europe.
 
+<br>
 
-## 🌟 Highlight Project: FitMate
-
-FitMate, designed to be your dedicated fitness partner, simplifies your health journey. Explore more about it on our [website](https://fitmateai.app).
-
-<p align="center">
-  <img src="https://github.com/skdev24/skdev24/assets/16745006/06f09645-51be-46ed-a2d2-531fe96ea9a7" alt="FitMate App" height="420" loading="lazy"/>
+<p>
+  <a href="https://librai.app">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skdev24/skdev24/master/librai-dark.png">
+      <img width="49%" alt="Librai: read any book in your language" src="https://raw.githubusercontent.com/skdev24/skdev24/master/librai-light.png">
+    </picture>
+  </a>
+  <a href="https://fitmateai.app">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skdev24/skdev24/master/fitmate-dark.png">
+      <img width="49%" alt="FitMate AI: your AI fitness partner" src="https://raw.githubusercontent.com/skdev24/skdev24/master/fitmate-light.png">
+    </picture>
+  </a>
 </p>
 
-<p align="center">
-For a hands-on experience, download the <a href="https://fitmateai.app/download">FitMate App</a>.
-</p>
+<br>
+
+<sub>[shivx.dev](https://shivx.dev) &nbsp;·&nbsp; [X](https://x.com/skdev24) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/skdev24)</sub>
 
 <p align="center">
   <img align='center' src="https://visitor-badge.laobi.icu/badge?page_id=skdev24.visitor-badge">
