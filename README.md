@@ -1,11 +1,12 @@
 ### Hey, I'm Shivam 👋
 
-CTO at [**Otio**](https://otio.ai) in London. I build AI products and the systems behind them, from document pipelines serving 200k+ users to iOS apps I ship on weekends.
+CTO at [**Frontdoor Labs**](https://frontdoor.xyz), an AI product lab in London. We build [Otio](https://otio.ai), an AI workspace for research and documents used by 200k+ people, and [Ordecto](https://ordecto.com), which makes PDFs accessible.
 
-Before Otio, I led engineering at [**Striga**](https://striga.com) (YC W21), where we built crypto wallets, cards and banking apps used across Europe.
+Before Frontdoor, I led engineering at [**Striga**](https://striga.com) (YC W21), where we built crypto wallets, cards and banking apps used across Europe.
 
 <br>
 
+<sub>SIDE PROJECTS</sub>
 <p>
   <a href="https://librai.app">
     <picture>
